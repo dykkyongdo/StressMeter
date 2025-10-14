@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abbcf050-d0f9-4719-b54a-ff5a895a5f3d" name="Changes" comment="" />
+    <list default="true" id="abbcf050-d0f9-4719-b54a-ff5a895a5f3d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/example/dyk_kyong_do_stressmeter/domain/StressScorer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/example/dyk_kyong_do_stressmeter/domain/StressScorer.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
